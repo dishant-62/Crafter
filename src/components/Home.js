@@ -1,8 +1,8 @@
 import React from "react";
 import "./home.css";
-import ic1 from './images/ic1.jpg' 
-import ic2 from './images/ic2.jpg' 
-import ic3 from './images/ic3.png' 
+import ic1 from './images/item-1.jpeg' 
+import ic2 from './images/item-2.jpeg' 
+import ic3 from './images/item-7.jpeg' 
 import "react-responsive-carousel/lib/styles/carousel.min.css"; 
 import { Carousel } from 'react-responsive-carousel';
 

@@ -22,10 +22,10 @@ function NavBar() {
             <li className="nav-item">
               <NavLink
                 exact
-                to="/menu-card"
+                to="/menu"
                 activeClassName="active"
                 className="nav-links"
-                onClick={() => scrollTo("Menucard")}
+                onClick={() => scrollTo("Menu")}
               >
                 Menu-Card
               </NavLink>
